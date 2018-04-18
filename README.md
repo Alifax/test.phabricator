@@ -1,2 +1,2 @@
 # test.phabricator
-testGit
+This is a test.
